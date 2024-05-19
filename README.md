@@ -1,4 +1,4 @@
-# Portafolio- HC22030
+# Portafolio- HC22030-Dora Elizabeth Hernández Chachagua
 
 Ejercicio 1: Resta con Registros de 16 bits
 El propósito de este código es demostrar cómo realizar operaciones de resta utilizando registros de 16 bits en lenguaje ensamblador.Este es importante en los sistemas de bajo nivel. 
